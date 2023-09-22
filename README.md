@@ -5,7 +5,4 @@ These are the changes I want to make.
 
 # This is bold
 
-And more texf
-
-
-t
+And more text
